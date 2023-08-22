@@ -41,4 +41,3 @@ spec:
           - containerPort: 9000
             name: green-eks
             protocol: TCP
-        
